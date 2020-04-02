@@ -42,4 +42,8 @@ highest_pal = 0
 end
 puts " Largest palindrome product: #{highest_pal}"
 ```
+`
+answer: 906609
+[Finished in 1.0s]
+`
 
